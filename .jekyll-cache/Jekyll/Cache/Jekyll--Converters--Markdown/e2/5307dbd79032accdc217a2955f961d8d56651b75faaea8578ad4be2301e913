@@ -1,0 +1,10 @@
+I"�<h2 id="the-4cs-of-cloud-native-security">The 4C’s of Cloud Native security</h2>
+<p>The 4C’s of Cloud Native security are</p>
+<ul>
+  <li>Cloud</li>
+  <li>Clusters</li>
+  <li>Containers</li>
+  <li>Code
+Each layer of the Cloud Native security model builds upon the next outermost layer. The Code layer benefits from strong base (Cloud, Cluster, Container) security layers. You cannot safeguard against poor security standards in the base layers by addressing security at the Code level.</li>
+</ul>
+:ET

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Big DATA and Cyber Security"
-author: sal
+author: usnet
 categories: [ Big-Data, Cyber ]
 image: assets/images/4v_bigData_usnet.jpg
 ---

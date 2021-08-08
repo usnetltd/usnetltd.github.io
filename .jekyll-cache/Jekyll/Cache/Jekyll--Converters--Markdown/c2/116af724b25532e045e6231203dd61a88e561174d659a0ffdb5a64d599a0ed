@@ -1,0 +1,31 @@
+I"�<h2 id="the-4cs-of-cloud-native-security">The 4C’s of Cloud Native security</h2>
+<p>The 4C’s of Cloud Native security are</p>
+<ul>
+  <li>Cloud</li>
+  <li>Clusters</li>
+  <li>Containers</li>
+  <li>Code</li>
+</ul>
+
+<p>Each layer of the Cloud Native security model builds upon the next outermost layer. The Code layer benefits from strong base (Cloud, Cluster, Container) security layers. You cannot safeguard against poor security standards in the base layers by addressing security at the Code level.</p>
+
+<h2 id="protect-detect-and-respond">Protect, detect and respond</h2>
+<p>Find the forest and Trees.  Have the high level picture of your organisation and drill down the the granular details, all within the same solution. Help to onboard diverse data to eliminate blind spots. Integrate with prebuilt anomaly detection jobs and detection rules. Accelerate response with a powerful investigation UI and embedded use-case management. Respond by automated Ansible based tools to remove the bad parties.</p>
+
+<p><img src="/assets/images/ice_berg_cyber.png" alt="Cyber Icerberg" title="Cyber IceBerg" /></p>
+
+<h2 id="scalable-configurable-pluggable-designs">Scalable, configurable, Pluggable Designs</h2>
+<p>All the tools we use does not have dependencies on database, thus able to scale to terabytes or petabytes of data per day. Keep your data for as long as you want and tap into the full picture when you need it most — you never know which data you might need when the next attack strikes. Create knowledge bases without any other tools. 100% RESTFUL API means any integration can be done with ease</p>
+
+<p>Ingest from anywhere, anytime
+Ingest data from your cloud, network, endpoints, applications — any source you like, really. The data can come from many sources, including:</p>
+
+<ul>
+  <li>Operating Systems</li>
+  <li>Network Devices</li>
+  <li>IoT sensors</li>
+  <li>Web traffic</li>
+  <li>Applications</li>
+  <li>Almost everywhere.. !!</li>
+</ul>
+:ET
