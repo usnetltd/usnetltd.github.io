@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Gain visibility into your environment"
-author: sal
+author: usnet
 categories: [ Big-Data, Cyber, Kubernetes, Container Security ]
 image: assets/images/ice_berg_cyber.png
 ---
