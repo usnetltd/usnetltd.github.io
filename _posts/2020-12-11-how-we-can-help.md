@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How we can help"
-author: john
+author: usnet
 categories: [ Kubernetes, CISSP, Cyber Security, Elastic, Splunk ]
 image: assets/images/4.jpg
 ---

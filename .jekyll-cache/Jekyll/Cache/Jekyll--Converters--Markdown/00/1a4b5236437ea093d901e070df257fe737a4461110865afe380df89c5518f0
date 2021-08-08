@@ -1,0 +1,24 @@
+I"@<h2 id="advanced-tools-and-products">Advanced tools and products</h2>
+<p>We work with Elastic, Splunk and Hadoop tools to aggregate data at massive scale. With help of these tools and leverage the speed, scale, and relevance to drive your security operations and threat hunting.
+We are completely moving away from traditional tools and relational databases to make way for the modern day tools.</p>
+
+<h2 id="protect-detect-and-respond">Protect, detect and respond</h2>
+<p>Find the forest and Trees.  Have the high level picture of your organisation and drill down the the granular details, all within the same solution. Help to onboard diverse data to eliminate blind spots. Integrate with prebuilt anomaly detection jobs and detection rules. Accelerate response with a powerful investigation UI and embedded use-case management. Respond by automated Ansible based tools to remove the bad parties.</p>
+
+<p><img src="/assets/images/ice_berg_cyber.png" alt="Cyber Icerberg" title="Cyber IceBerg" /></p>
+
+<h2 id="scalable-configurable-pluggable-designs">Scalable, configurable, Pluggable Designs</h2>
+<p>All the tools we use does not have dependencies on database, thus able to scale to terabytes or petabytes of data per day. Keep your data for as long as you want and tap into the full picture when you need it most — you never know which data you might need when the next attack strikes. Create knowledge bases without any other tools. 100% RESTFUL API means any integration can be done with ease</p>
+
+<p>Ingest from anywhere, anytime
+Ingest data from your cloud, network, endpoints, applications — any source you like, really. The data can come from many sources, including:</p>
+
+<ul>
+  <li>Operating Systems</li>
+  <li>Network Devices</li>
+  <li>IoT sensors</li>
+  <li>Web traffic</li>
+  <li>Applications</li>
+  <li>Almost everywhere.. !!</li>
+</ul>
+:ET
