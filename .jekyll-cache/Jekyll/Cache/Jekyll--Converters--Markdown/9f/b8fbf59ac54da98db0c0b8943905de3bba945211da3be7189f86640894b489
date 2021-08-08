@@ -1,4 +1,5 @@
-I"c<p>There are lots of powerful things you can do with the Markdown editor</p>
+I"ã
+<p>There are lots of powerful things you can do with the Markdown editor</p>
 
 <p>If youâ€™ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!</p>
 
@@ -14,6 +15,14 @@
   <li>*escaped characters*</li>
 </ul>
 
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
 <h2 id="writing-code-blocks">Writing code blocks</h2>
 
 <p>There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, <code>like this</code>. Larger snippets of code can be displayed across multiple lines using triple back ticks:</p>
@@ -25,7 +34,7 @@
 
 <p>If you want to get really fancy, you can even add syntax highlighting using Rouge.</p>
 
-<p><img src="/usnetltd.github.io/assets/images/3.jpg" alt="walking" /></p>
+<p><img src="//assets/images/3.jpg" alt="walking" /></p>
 
 <h2 id="reference-lists">Reference lists</h2>
 
